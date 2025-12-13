@@ -32,10 +32,7 @@ He lives in Toronto, Canada with his wife Nancy and their two cats, Jill Meowlen
 <br />
 
 ### Social Links:
-* 🌄 [Instagram](https://instagram.com/thebenjaminrivers)
 * 🧳 [LinkedIn](https://www.linkedin.com/in/benjaminrivers/)
-* **@** [Threads](https://www.threads.net/@thebenjaminrivers)
 * 🦋 [BlueSky](https://bsky.app/profile/benjaminrivers.bsky.social)
 * 🐘 [Mastodon](https://mas.to/@benjaminrivers)
 * 🎆 [TikTok](https://tiktok.com/@thebenjaminrivers)
-* 🕊️ [Hellsite](https://x.com/benjaminrivers)
